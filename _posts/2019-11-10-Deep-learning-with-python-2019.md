@@ -15,7 +15,7 @@ It is the book Deep learning with python, author FRANÇOIS CHOLLET.
 # Chapter 1
    1.1. Deep Learning is used for supervised learning. Initially itintroduce _loss function_, _Backpropagation_ for basic concept. The target for training is to minimize loss function. Talk about the history and development of AI.
 
-   1.2. Talk about the machine learning model before DL. Naive Bayes is a type of machine-learning classifier based on applying Bayes’ theorem while assuming that the features in the input data are all independent (a strong, or “naive” assumption, which is where the name comes from). Logistic regression is for classification problem but with name regression.
+   1.2. Talk about the machine learning model before DL.1- Naive Bayes is a type of machine-learning classifier based on applying Bayes’ theorem while assuming that the features in the input data are all independent (a strong, or “naive” assumption, which is where the name comes from). 2- Logistic regression is for classification problem but with name regression. 3- Earlier DL. Its development is from the invention of backpropagation.
 
 # Chapter 2
 
