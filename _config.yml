@@ -1,7 +1,7 @@
 # Site settings
 title: Little Fat Tiger Blog
 SEOTitle: Little fat tiger's personal blog | Store and refresh knowledge
-header-img: /img/post-bg-desk.jpg
+header-img: img/post-bg-desk.jpg
 email: 6698381@gmail.com
 description: "This blog is used to record notes"
 keyword: "little fat tiger"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/littlefattiger/littlefattiger.github.io.git" # 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Eat sleep,and sleep eat"
-sidebar-avatar: /img/little-tiger.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/little-tiger.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
