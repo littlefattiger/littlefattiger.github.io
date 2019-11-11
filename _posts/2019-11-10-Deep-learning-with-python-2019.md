@@ -13,7 +13,7 @@ tags:
 It is the book Deep learning with python, author FRANÇOIS CHOLLET.
 
 # Chapter 1
-    1 Deep Learning is used for supervised learning. Initially itintroduce _loss function_, _Backpropagation_ for basic concept. The target for training is to minimize loss function. Talk about the history and development of AI.
+   1. Deep Learning is used for supervised learning. Initially itintroduce _loss function_, _Backpropagation_ for basic concept. The target for training is to minimize loss function. Talk about the history and development of AI.
 
 # Chapter 2
 
