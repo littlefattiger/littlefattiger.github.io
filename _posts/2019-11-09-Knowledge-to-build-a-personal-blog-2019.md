@@ -18,7 +18,7 @@ Technique to build a good blog
 
 3. Markdown:
 
-    1. https://www.markdownguide.org/basic-syntax/#images-1
+    1. [Markdown organization](https://www.markdownguide.org/basic-syntax/#images-1)
 
 4. Latex
 
