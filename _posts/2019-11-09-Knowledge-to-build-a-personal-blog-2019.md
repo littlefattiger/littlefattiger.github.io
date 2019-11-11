@@ -12,11 +12,11 @@ tags:
 
 Technique to build a good blog
 
-1, Html:
+# Html:
 
-2, CSS
+__CSS__:
 
-3, Markdown
+> Markdown
 
 4, Latex
 
