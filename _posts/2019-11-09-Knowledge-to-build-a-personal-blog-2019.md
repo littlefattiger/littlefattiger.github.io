@@ -5,7 +5,7 @@ subtitle:   Technique I need to learn in order to have a better blog
 date:       2019-11-10 				
 author:     Little Fat Tiger					 
 header-img: img/post-bg-2015.jpg 	 
-catalog: true 						 
+catalog: target and plan 						 
 tags:								 
     - reading
 ---
