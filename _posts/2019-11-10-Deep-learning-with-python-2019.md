@@ -11,3 +11,9 @@ tags:
 ---
 
 It is the book Deep learning with python, author FRANÇOIS CHOLLET.
+
+#Chapter 1
+
+#Chapter 2
+
+#Chapter 3
