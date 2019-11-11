@@ -14,7 +14,7 @@ It is the book Deep learning with python, author FRANÇOIS CHOLLET.
 
 # Chapter 1
 Deep Learning is used for supervised learning. 
-It introduce loss _function_, _Backpropagation_ for basic concept.
+It introduce _loss function_, _Backpropagation_ for basic concept.
 
 
 # Chapter 2
