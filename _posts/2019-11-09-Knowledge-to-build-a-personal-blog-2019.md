@@ -26,7 +26,3 @@ Technique to build a good blog
 
 5. PHP
 
-Mathematical displays are marked off with `\[` and `\]`, as in
-\[
-e^{i \pi} = -1
-\]
