@@ -25,8 +25,7 @@ Technique to build a good blog
 
 5. PHP
 
-```{python}
-library(MASS)
-data(cats)
-plot(Hwt ~ Bwt, data=cats, xlab="Body weight (kg)", ylab="Heart weight (g)")
-```
+Mathematical displays are marked off with `\[` and `\]`, as in
+\[
+e^{i \pi} = -1
+\]
