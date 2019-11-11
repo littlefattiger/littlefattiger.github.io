@@ -12,13 +12,14 @@ tags:
 
 Technique to build a good blog
 
-1.Html
+1. Html
 
-2.CSS
+2. CSS
 
-3.Markdown:
-    https://www.markdownguide.org/basic-syntax/#images-1
+3. Markdown:
 
-4.Latex
+    1. https://www.markdownguide.org/basic-syntax/#images-1
 
-5.PHP
+4. Latex
+
+5. PHP
