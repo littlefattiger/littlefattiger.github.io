@@ -25,3 +25,8 @@ Technique to build a good blog
 
 5. PHP
 
+```{r}
+library(MASS)
+data(cats)
+plot(Hwt ~ Bwt, data=cats, xlab="Body weight (kg)", ylab="Heart weight (g)")
+```
