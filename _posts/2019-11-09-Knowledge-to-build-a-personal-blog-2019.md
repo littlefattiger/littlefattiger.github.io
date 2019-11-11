@@ -18,7 +18,8 @@ Technique to build a good blog
 
 3. Markdown:
 
-     [Markdown organization](https://www.markdownguide.org/basic-syntax/#images-1)
+    1. [Markdown official document](https://www.markdownguide.org/basic-syntax/#images-1)
+    2. [Math in R markdown](http://www.stat.cmu.edu/~cshalizi/rmarkdown/#math-in-r-markdown)
 
 4. Latex
 
