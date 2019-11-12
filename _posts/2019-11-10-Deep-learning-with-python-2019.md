@@ -24,12 +24,16 @@ It is the book Deep learning with python, author FRANÇOIS CHOLLET.
 # Chapter 2
    2.1 Show a DL example in MNIST with less than 20 line code of python.
    
-   2.2 Example of tensor. From one dimension to more than 3 dimensions.
+   2.2 Example of tensor. From one dimension to more than 3 dimensions. 3 important property of tensor are 1, number of axes; 2, shape; 3, data type. Data manipulation.
 ```python
 import numpy as np
 x = np.array(12)
 x = np.array([12, 3, 6, 14])
+#example of slicing
+my_slice = train_images[10:100, :, :]
+my_slice = train_images[10:100, 0:28, 0:28]
 ```
+   
    
 
 # Chapter 3
