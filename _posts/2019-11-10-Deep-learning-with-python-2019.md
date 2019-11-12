@@ -24,7 +24,7 @@ It is the book Deep learning with python, author FRANÇOIS CHOLLET.
 # Chapter 2
    2.1 Show a DL example in MNIST with less than 20 line code of python.
    
-   2.2 Example of tensor.
+   2.2 Example of tensor. From one dimension to more than 3 dimensions.
 ```python
 import numpy as np
 x = np.array(12)
