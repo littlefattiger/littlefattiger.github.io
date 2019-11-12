@@ -112,7 +112,21 @@ plt.show()
 ```
 3.5 Here introduce a miltiple calss classification problem. An example with 46 labels. End with softmax activation function.
 
-3.6 Here is a regression problem with prediction of house price.
+3.6 Here is a regression problem with prediction of house price. Note that the quantities used for normalizing the test data are computed using the training data. You should never use in your workflow any quantity computed on the test data, even for something as simple as data normalization.
+```python
+from keras import models
+from keras import layers
+
+def build_model():
+    model = models.Sequential()
+    model.add(layers.Dense(64, activation='relu',
+                            input_shape=(train_data.shape[1],)))
+    model.add(layers.Dense(64, activation='relu'))
+    model.add(layers.Dense(1))
+    model.compile(optimizer='rmsprop', loss='mse', metrics=['mae'])
+    return model
+#The network ends with a single unit and no activation (it will be a linear layer)
+```
 
 # Chapter 4
 
