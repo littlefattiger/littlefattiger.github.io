@@ -25,11 +25,9 @@ It is the book Deep learning with python, author FRANÇOIS CHOLLET.
    2.1 Show a DL example in MNIST with less than 20 line code of python.
    
    2.2 Example of tensor.
-        <html>
-            <head>
-                x = np.array([12, 3, 6, 14])
-            </head>
-        </html>
+def foo():
+    if not bar:
+        return True
    
 
 # Chapter 3
