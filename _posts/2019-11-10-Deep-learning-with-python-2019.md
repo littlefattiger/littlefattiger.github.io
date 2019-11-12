@@ -110,6 +110,9 @@ plt.ylabel('Loss')
 plt.legend()
 plt.show()
 ```
+3.5 Here introduce a miltiple calss classification problem. An example with 46 labels. End with softmax activation function.
+
+3.6 Here is a regression problem with prediction of house price.
 
 # Chapter 4
 
