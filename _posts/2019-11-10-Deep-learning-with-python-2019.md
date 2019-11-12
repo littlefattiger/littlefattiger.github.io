@@ -47,7 +47,7 @@ It also talk about batch axis or batch dimension. It also talks about different 
 
 3.1 Begin the deep learning process. Initially, it introduces the idea like building lego bricks on model to do deep learning and later use an example to tell us the code step by step.
 
-3.2 It is still an example of Kera. Nothing special for this chapter.
+3.2-3 It is still an example of Kera. Nothing special for this chapter. It also recommend you to buy a GPU or use cloud.
 
 # Chapter 4
 
