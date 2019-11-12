@@ -34,6 +34,7 @@ my_slice = train_images[10:100, :, :]
 my_slice = train_images[10:100, 0:28, 0:28]
 my_slice = train_images[:, 7:-7, 7:-7]
 ```
+It also talk about batch axis or batch dimension.
    
    
 
