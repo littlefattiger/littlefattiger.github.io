@@ -22,6 +22,10 @@ It is the book Deep learning with python, author FRANÇOIS CHOLLET.
    In general, besides the basic model, we only need to learn GBM and DL. On GBM, we need to learn XGBoost, and light GBM.
 
 # Chapter 2
+   2.1 Show a DL example in MNIST with less than 20 line code of python.
+   
+   2.2 Example of tensor.
+   
 
 # Chapter 3
 
