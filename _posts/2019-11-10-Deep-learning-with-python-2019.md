@@ -25,13 +25,11 @@ It is the book Deep learning with python, author FRANÇOIS CHOLLET.
    2.1 Show a DL example in MNIST with less than 20 line code of python.
    
    2.2 Example of tensor.
-```python
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+    ```python
+    import numpy as np
+    x = np.array(12)
+    x = np.array([12, 3, 6, 14])
+    ```
    
 
 # Chapter 3
