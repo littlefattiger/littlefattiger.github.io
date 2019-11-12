@@ -126,6 +126,7 @@ def build_model():
     model.compile(optimizer='rmsprop', loss='mse', metrics=['mae'])
     return model
 #The network ends with a single unit and no activation (it will be a linear layer)
+#Once you’re finished tuning other parameters of the model (in addition to the number of epochs, you could also adjust the size of the hidden layers), you can train a final production model on all of the training data, with the best parameters, and then look at its performance on the test data.
 ```
 
 # Chapter 4
