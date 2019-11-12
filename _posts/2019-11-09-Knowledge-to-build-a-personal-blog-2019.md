@@ -21,6 +21,7 @@ Technique to build a good blog
     1. [Markdown official document](https://www.markdownguide.org/basic-syntax/#images-1)
     2. [Math in R markdown](http://www.stat.cmu.edu/~cshalizi/rmarkdown/#math-in-r-markdown)
     3. [Github math markdown wiki page](https://github.com/cben/mathdown/wiki/math-in-markdown)
+    4. [Github markdown guild](https://guides.github.com/features/mastering-markdown/)
 
 4. Latex
 
