@@ -45,7 +45,8 @@ It also talk about batch axis or batch dimension. It also talks about different 
 
 # Chapter 3
 
-3.1 Begin the deep learning process.
+3.1 Begin the deep learning process. Initially, it introduces the idea like building lego bricks on model to do deep learning and later use an example to tell us the code step by step.
+
 
 # Chapter 4
 
