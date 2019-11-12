@@ -45,6 +45,8 @@ It also talk about batch axis or batch dimension. It also talks about different 
 
 # Chapter 3
 
+3.1 Begin the deep learning process.
+
 # Chapter 4
 
 # Chapter 5
