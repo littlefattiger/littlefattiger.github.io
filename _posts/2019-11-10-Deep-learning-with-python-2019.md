@@ -131,6 +131,7 @@ def build_model():
 
 # Chapter 4
 
+4.1 Different type of machine learning. Supervised learning, Unsupervised learning, Self-supervised learning, Reinforcement learning. I think it should only be 3 not 4.
 # Chapter 5
 
 # Chapter 6
