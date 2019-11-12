@@ -36,9 +36,11 @@ my_slice = train_images[:, 7:-7, 7:-7]
 ```
 It also talk about batch axis or batch dimension. It also talks about different data and it dimension from 2D to 5D. 2D Vector data; 3D Timeseries data; 4D image - (samples, height, width, color_depth); 5D Video (samples, frames, height, width, color_depth) .
  
-   2.3 
-    (dot(x, y)) if and only if x.shape[1] == y.shape[0]
-   
+   2.3 It talks about the tensor operation: element addition and multiple; dot multiple, also their naive implementation;  Reshape.
+```python
+(dot(x, y)) if and only if x.shape[1] == y.shape[0]
+
+```   
 
 # Chapter 3
 
