@@ -41,6 +41,7 @@ It also talk about batch axis or batch dimension. It also talks about different 
 (dot(x, y)) if and only if x.shape[1] == y.shape[0]
 
 ```   
+   2.4 It talks about training model and how to update weight. It includes derivatives and gradient, Stochastic gradient descent->Update based on random bunch of data. Some basic info.
 
 # Chapter 3
 
