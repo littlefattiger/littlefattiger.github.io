@@ -149,6 +149,9 @@ In sum 4 ways to reduct overfitting:
 >Get more training data. Reduce the capacity of the network. Add weight regularization. Add dropout.
 
 4.5 General workflow of ML. Metric: For balanced-classification problems, where every class is equally likely, accuracy and area under the receiver operating characteristic curve (ROC AUC) are common metrics. For class-imbalanced problems, you can use precision and recall. 
+
+**I think chapter 1-4 are for foundation knowledge and chapters 5-9 are for practical example. 
+
 # Chapter 5
 
 # Chapter 6
