@@ -141,8 +141,9 @@ Trains the final model on all non- test data available
 
 4.3 Data preprocessing, feature engineering, and feature learning.
 
-4.4 It discusses about the overfitting and underfitting. Nothing special here. To prevent a model from learning misleading or irrelevant patterns found in the training data, the best solution is to get more training data. Second to best: The processing of fighting overfitting this way is called regularization. 
+4.4 It discusses about the overfitting and underfitting. Nothing special here. To prevent a model from learning misleading or irrelevant patterns found in the training data, the best solution is to get more training data. Second to best: The processing of fighting overfitting this way is called regularization.  **L1 regularization—The cost added is proportional to the absolute value of the weight coefficients (the L1 norm of the weights). L2 regularization—The cost added is proportional to the square of the value of the weight coefficients**  Also mention dropout technique. 
 
+>Dropout, applied to a layer, consists of randomly dropping out (setting to zero) a number of output features of the layer during training. Let’s say a given layer would normally return a vector [0.2, 0.5, 1.3, 0.8, 1.1] for a given input sample during training. After applying dropout, this vector will have a few zero entries distributed at random: for example, [0, 0.5, 1.3, 0, 1.1]. The dropout rate is the fraction of the features that are zeroed out; it’s usually set between 0.2 and 0.5. At test time, no units are dropped out; instead, the layer’s output values are scaled down by a factor equal to the dropout rate, to balance for the fact that more units are active than at training time.
 
 # Chapter 5
 
