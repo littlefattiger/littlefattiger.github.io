@@ -136,7 +136,11 @@ def build_model():
 4.2 It talks about the model performance evaluation. It explains what is overfitting and information leak. Every time you tune a hyperparameter of your model based on the model’s performance on the validation set, some information about the validation data leaks into the model.
 
 It introduces several way of separating data: SIMPLE HOLD-OUT VALIDATION； K-FOLD VALIDATION； ITERATED K-FOLD VALIDATION WITH SHUFFLING
+
 Trains the final model on all non- test data available
+
+4.3 Data preprocessing, feature engineering, and feature learning.
+
 
 # Chapter 5
 
