@@ -145,6 +145,10 @@ Trains the final model on all non- test data available
 
 >Dropout, applied to a layer, consists of randomly dropping out (setting to zero) a number of output features of the layer during training. Let’s say a given layer would normally return a vector [0.2, 0.5, 1.3, 0.8, 1.1] for a given input sample during training. After applying dropout, this vector will have a few zero entries distributed at random: for example, [0, 0.5, 1.3, 0, 1.1]. The dropout rate is the fraction of the features that are zeroed out; it’s usually set between 0.2 and 0.5. At test time, no units are dropped out; instead, the layer’s output values are scaled down by a factor equal to the dropout rate, to balance for the fact that more units are active than at training time.
 
+Only dropout in training and adjust the weight on testing.
+In sum 4 ways to reduct overfitting:
+>Get more training data. Reduce the capacity of the network. Add weight regularization. Add dropout.
+
 # Chapter 5
 
 # Chapter 6
