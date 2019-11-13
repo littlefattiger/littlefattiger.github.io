@@ -141,7 +141,8 @@ Trains the final model on all non- test data available
 
 4.3 Data preprocessing, feature engineering, and feature learning.
 
-4.4 It discusses about the overfitting and underfitting. Nothing special here.
+4.4 It discusses about the overfitting and underfitting. Nothing special here. To prevent a model from learning misleading or irrelevant patterns found in the training data, the best solution is to get more training data. Second to best: The processing of fighting overfitting this way is called regularization. 
+
 
 # Chapter 5
 
