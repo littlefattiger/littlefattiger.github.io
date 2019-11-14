@@ -190,6 +190,12 @@ model.fit(train_images, train_labels, epochs=5, batch_size=64)
 5.2 
 > Together, these three strategies—training a small model from scratch, doing feature extraction using a pretrained model, and fine-tuning a pre- trained model—will constitute your future toolbox for tackling the problem of per- forming image classification with small datasets.
 
+5.5-5.3 These two part mainly talk about how to apply CNN on the cat and dog classification. In 5.2, it uses a simple CNN from scratch to build a model. The performance is not very good. On 5.3, it uses a pretrain model on the top to help us. There are two ways to use the pretrain model. 
+
+> Running the convolutional base over your dataset, recording its output to a Numpy array on disk, and then using this data as input to a standalone, densely connected classifier similar to those you saw in part 1 of this book. This solution is fast and cheap to run, because it only requires running the convolutional base once for every input image, and the convolutional base is by far the most expensive part of the pipeline. But for the same reason, this technique won’t allow you to use data augmentation.
+
+>Extending the model you have (conv_base) by adding Dense layers on top, and running the whole thing end to end on the input data. This will allow you to use data augmentation, because every input image goes through the convolutional base every time it’s seen by the model. But for the same reason, this technique is far more expensive than the first.
+
 # Chapter 6
 
 # Chapter 7
