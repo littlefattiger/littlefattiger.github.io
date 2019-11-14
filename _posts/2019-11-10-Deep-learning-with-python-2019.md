@@ -196,6 +196,9 @@ model.fit(train_images, train_labels, epochs=5, batch_size=64)
 
 >Extending the model you have (conv_base) by adding Dense layers on top, and running the whole thing end to end on the input data. This will allow you to use data augmentation, because every input image goes through the convolutional base every time it’s seen by the model. But for the same reason, this technique is far more expensive than the first.
 
+The first one is fast but weeker and can not use any data augment. Second one is slower but more accurate. The first one only use the output of the pretrain model to serve as the input for final dense layer, it is very fast. Second method can do any fine tuning on the pretrain model. Usually we only fine turn the later layer because the initial layer has some basic information such as edge and point, which is useful for us and do not need to train again. The second model can reach 97% accuracy.
+
+
 # Chapter 6
 
 # Chapter 7
