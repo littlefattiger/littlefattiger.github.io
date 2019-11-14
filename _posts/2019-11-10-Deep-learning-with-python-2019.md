@@ -185,6 +185,10 @@ model.compile(optimizer='rmsprop',
               metrics=['accuracy'])
 model.fit(train_images, train_labels, epochs=5, batch_size=64)
 ```
+5.1 Here it introduce some basic concept and important parameters.  Border effects; strides; max-pooling operation.
+
+5.2 
+
 # Chapter 6
 
 # Chapter 7
