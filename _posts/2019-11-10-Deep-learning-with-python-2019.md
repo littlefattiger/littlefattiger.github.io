@@ -187,7 +187,7 @@ model.fit(train_images, train_labels, epochs=5, batch_size=64)
 ```
 5.1 Here it introduce some basic concept and important parameters.  Border effects; strides; max-pooling operation.
 
-5.2 
+5.2 >Together, these three strategies—training a small model from scratch, doing feature extraction using a pretrained model, and fine-tuning a pre- trained model—will constitute your future toolbox for tackling the problem of per- forming image classification with small datasets.
 
 # Chapter 6
 
