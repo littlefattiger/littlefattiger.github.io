@@ -198,6 +198,12 @@ model.fit(train_images, train_labels, epochs=5, batch_size=64)
 
 The first one is fast but weeker and can not use any data augment. Second one is slower but more accurate. The first one only use the output of the pretrain model to serve as the input for final dense layer, it is very fast. Second method can do any fine tuning on the pretrain model. Usually we only fine turn the later layer because the initial layer has some basic information such as edge and point, which is useful for us and do not need to train again. The second model can reach 97% accuracy.
 
+5.4 Visualizing for CNN. 
+
+>  The first layer acts as a collection of various edge detectors. At that stage, the activations retain almost all of the information present in the initial picture.
+As you go higher, the activations become increasingly abstract and less visually
+interpretable. They begin to encode higher-level concepts such as “cat ear” and “cat eye.” Higher presentations carry increasingly less information about the visual contents of the image, and increasingly more information related to the class of the image.
+The sparsity of the activations increases with the depth of the layer: in the first layer, all filters are activated by the input image; but in the following layers, more and more filters are blank. This means the pattern encoded by the filter isn’t found in the input image
 
 # Chapter 6
 
