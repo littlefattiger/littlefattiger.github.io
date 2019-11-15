@@ -209,6 +209,7 @@ The sparsity of the activations increases with the depth of the layer: in the fi
 -how to understand filter?
 ```
 
+filter->pooling->dropout.
 
 # Chapter 6 Deep learning for text and sequences- by using recurrent neural networks and 1D convnets
 
