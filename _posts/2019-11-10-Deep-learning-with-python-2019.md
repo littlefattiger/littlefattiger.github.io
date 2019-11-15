@@ -211,13 +211,13 @@ The sparsity of the activations increases with the depth of the layer: in the fi
 # Chapter 6 Deep learning for text and sequences- by using recurrent neural networks and 1D convnets
 
 Applications: 
-
+```
 > 1 Document classification and timeseries classification, such as identifying the topic of an article or the author of a book
 > 2 Timeseries comparisons, such as estimating how closely related two docu- ments or two stock tickers are
 > 3 Sequence-to-sequence learning, such as decoding an English sentence into French
 > 4 Sentiment analysis, such as classifying the sentiment of tweets or movie reviews as positive or negative
 > 5 Timeseries forecasting, such as predicting the future weather at a certain loca- tion, given recent weather data
-
+```
 # Chapter 7
 
 # Chapter 8
