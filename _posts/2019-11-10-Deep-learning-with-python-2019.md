@@ -212,11 +212,11 @@ The sparsity of the activations increases with the depth of the layer: in the fi
 
 Applications: 
 
-> Document classification and timeseries classification, such as identifying the topic of an article or the author of a book
-> Timeseries comparisons, such as estimating how closely related two docu- ments or two stock tickers are
-> Sequence-to-sequence learning, such as decoding an English sentence into French
-> Sentiment analysis, such as classifying the sentiment of tweets or movie reviews as positive or negative
-> Timeseries forecasting, such as predicting the future weather at a certain loca- tion, given recent weather data
+> 1 Document classification and timeseries classification, such as identifying the topic of an article or the author of a book
+> 2 Timeseries comparisons, such as estimating how closely related two docu- ments or two stock tickers are
+> 3 Sequence-to-sequence learning, such as decoding an English sentence into French
+> 4 Sentiment analysis, such as classifying the sentiment of tweets or movie reviews as positive or negative
+> 5 Timeseries forecasting, such as predicting the future weather at a certain loca- tion, given recent weather data
 
 # Chapter 7
 
