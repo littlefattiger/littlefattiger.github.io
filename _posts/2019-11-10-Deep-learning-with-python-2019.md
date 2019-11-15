@@ -206,7 +206,7 @@ interpretable. They begin to encode higher-level concepts such as “cat ear” 
 The sparsity of the activations increases with the depth of the layer: in the first layer, all filters are activated by the input image; but in the following layers, more and more filters are blank. This means the pattern encoded by the filter isn’t found in the input image
 
 ```diff
--how to understand filter ?
+-how to understand filter?
 ```
 
 
