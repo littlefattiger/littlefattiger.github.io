@@ -205,6 +205,9 @@ As you go higher, the activations become increasingly abstract and less visually
 interpretable. They begin to encode higher-level concepts such as “cat ear” and “cat eye.” Higher presentations carry increasingly less information about the visual contents of the image, and increasingly more information related to the class of the image.
 The sparsity of the activations increases with the depth of the layer: in the first layer, all filters are activated by the input image; but in the following layers, more and more filters are blank. This means the pattern encoded by the filter isn’t found in the input image
 
+**how to understand filter**
+
+
 # Chapter 6
 
 # Chapter 7
