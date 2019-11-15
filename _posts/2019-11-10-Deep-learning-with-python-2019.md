@@ -218,6 +218,11 @@ Applications:
 > 4 Sentiment analysis, such as classifying the sentiment of tweets or movie reviews as positive or negative
 > 5 Timeseries forecasting, such as predicting the future weather at a certain loca- tion, given recent weather data
 ```
+
+This chapter include : 
+
+> This chapter’s examples focus on two narrow tasks: sentiment analysis on the IMDB dataset, a task we approached earlier in the book, and temperature forecasting.
+
 # Chapter 7
 
 # Chapter 8
