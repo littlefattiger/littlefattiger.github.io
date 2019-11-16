@@ -230,6 +230,10 @@ This chapter include :
 
 Here use a simple example to show how can we use text to sentiment classification.
 
+6.2 RNN. 
+
+> In effect, an RNN is a type ofneural network that has an internal loop
+
 # Chapter 7
 
 # Chapter 8
