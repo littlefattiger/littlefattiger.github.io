@@ -232,7 +232,7 @@ Here use a simple example to show how can we use text to sentiment classificatio
 
 6.2 RNN. 
 
-> In effect, an RNN is a type ofneural network that has an internal loop
+> In effect, an RNN is a type ofneural network that has an internal loop. y = activation(dot(state_t, U) + dot(input_t, W) + b)
 
 First it has simple RNN. Later it include LSTM and GRU.
 # Chapter 7
