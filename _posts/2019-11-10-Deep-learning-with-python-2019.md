@@ -234,6 +234,7 @@ Here use a simple example to show how can we use text to sentiment classificatio
 
 > In effect, an RNN is a type ofneural network that has an internal loop
 
+First it has simple RNN. Later it include LSTM.
 # Chapter 7
 
 # Chapter 8
