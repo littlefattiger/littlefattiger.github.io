@@ -236,7 +236,9 @@ Here use a simple example to show how can we use text to sentiment classificatio
 
 First it has simple RNN. Later it include LSTM and GRU.  Just keep in mind what the LSTM cell is meant to do: allow past informa- tion to be reinjected at a later time, thus fighting the vanishing-gradient problem.
 
-6.3 3 kinds of RNN. Recurrent dropout; Stacking recurrent layers; Bidirectional recurrent layers
+6.3 3 kinds of RNN. Recurrent dropout; Stacking recurrent layers; Bidirectional recurrent layers. Stack means increase the layer of model. This could be done when the model did not have overfitting problem. Overfitting can be overcome by dropout method.
+
+
 # Chapter 7
 
 # Chapter 8
