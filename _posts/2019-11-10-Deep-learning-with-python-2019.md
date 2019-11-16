@@ -228,6 +228,8 @@ This chapter include :
 
 6.1 Vectorizing text is the process of transforming text into numeric tensors. This can be done in multiple ways: Segment text into words, and transform each word into a vector; Segment text into characters, and transform each character into a vector;Extract n-grams of words or characters, and transform each n-gram into a vector.N-grams are overlapping groups of multiple consecutive words or characters. Collectively, the different units into which you can break down text (words, charac- ters, or n-grams) are called tokens, and breaking text into such tokens is called tokeniza- tion.
 
+Here use a simple example to show how can we use text to sentiment classification.
+
 # Chapter 7
 
 # Chapter 8
