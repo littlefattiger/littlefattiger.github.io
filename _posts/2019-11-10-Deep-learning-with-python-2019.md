@@ -238,7 +238,7 @@ First it has simple RNN. Later it include LSTM and GRU.  Just keep in mind what 
 
 6.3 3 kinds of RNN. Recurrent dropout; Stacking recurrent layers; Bidirectional recurrent layers. Stack means increase the layer of model. This could be done when the model did not have overfitting problem. Overfitting can be overcome by dropout method.
 
-6.4 Sequence processing with convnets
+6.4 Sequence processing with convnets. We can also combine CNN and RNN together.
 
 # Chapter 7
 
