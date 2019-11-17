@@ -267,4 +267,14 @@ What we learn:
 
 8.2 Talking about DeepDream picture building. Combine several picture together and build a new picture by using CNN.
 
+8.3 From Wrapping up
+```
+1 Style transfer consists of creating a new image that preserves the contents of a target image while also capturing the style of a reference image.
+2 Content can be captured by the high-level activations of a convnet.
+3 Style can be captured by the internal correlations of the activations of different
+layers of a convnet.
+4 Hence, deep learning allows style transfer to be formulated as an optimization
+process using a loss defined with a pretrained convnet.
+5 Starting from this basic idea, many variants and refinements are possible.
+```
 # Chapter 9
