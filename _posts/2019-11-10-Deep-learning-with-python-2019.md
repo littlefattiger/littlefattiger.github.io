@@ -265,5 +265,6 @@ What we learn:
 
 8.1 Use RNN to build a generated text model. Sampling the next token requires balance between adhering to what the model judges likely, and introducing randomness. One way to handle this is the notion of softmax temperature. Always experi- ment with different temperatures to find the right one.
 
+8.2 Talking about DeepDream picture building. Combine several picture together and build a new picture by using CNN.
 
 # Chapter 9
