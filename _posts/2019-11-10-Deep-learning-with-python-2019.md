@@ -255,6 +255,10 @@ Wrapping up:
 
 7.2 ModelCheckpoint, EarlyStopping, and ReduceLROnPlateau.
 
+What we learn: 
+> Keras callbacks provide a simple way to monitor models during training and automatically take action based on the state of the model.
+> When you’re using TensorFlow, TensorBoard is a great way to visualize model activity in your browser. You can use it in Keras models via the TensorBoard call- back.
+
 # Chapter 8
 
 # Chapter 9
