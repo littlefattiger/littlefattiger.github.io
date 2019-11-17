@@ -251,6 +251,8 @@ Wrapping up:
 
 # Chapter 7
 
+7.1 **functional API** These three important use cases—multi-input models, multi-output models, and graph-like models—aren’t possible when using only the Sequential model class in Keras. 
+
 # Chapter 8
 
 # Chapter 9
