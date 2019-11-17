@@ -259,6 +259,8 @@ What we learn:
 > 1. Keras callbacks provide a simple way to monitor models during training and automatically take action based on the state of the model.
 > 2. When you’re using TensorFlow, TensorBoard is a great way to visualize model activity in your browser. You can use it in Keras models via the TensorBoard call- back.
 
+7.3 Here it introduce some advanced technique. Like ensemble, hyperparameter optimization.
+
 # Chapter 8
 
 # Chapter 9
