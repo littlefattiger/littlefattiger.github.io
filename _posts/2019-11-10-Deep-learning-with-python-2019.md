@@ -277,4 +277,7 @@ layers of a convnet.
 process using a loss defined with a pretrained convnet.
 5 Starting from this basic idea, many variants and refinements are possible.
 ```
+
+8.4 is VAE and 8.5 is GAN.
+
 # Chapter 9
