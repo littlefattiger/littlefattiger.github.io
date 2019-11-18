@@ -5,7 +5,7 @@ subtitle:   Machine learning and algorithm note
 date:       2019-11-19				
 author:     Little Fat Tiger					 
 header-img: img/post-bg-2015.jpg 	 
-catalog: target and plan 						 
+catalog: true 						 
 tags:								 
     - reading
 ---
