@@ -287,3 +287,10 @@ process using a loss defined with a pretrained convnet.
 3 GANs can potentially produce highly realistic images. But unlike VAEs, the latent space they learn doesn’t have a neat continuous structure and thus may not be suited for certain practical applications, such as image editing via latent- space concept vectors.
 ```
 # Chapter 9
+```
+**This chapter covers**
+1 Important takeaways from this book
+2 The limitations of deep learning
+3 The future of deep learning, machine learning, and AI
+4 Resources for learning further and working in the field
+```
