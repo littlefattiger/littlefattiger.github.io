@@ -10,7 +10,7 @@ tags:
     - algorithm
 ---
 
-Chapter 1
+Chapter 1 Foundation materia.
 
 Chapter 2
 
